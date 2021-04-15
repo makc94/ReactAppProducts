@@ -1,0 +1,12 @@
+td {
+    border: 2px solid #3a1111;
+}
+table {
+    border: 1px solid #3a1111;
+}
+.button {
+    background-color: rgb(233, 86, 86);
+}
+.input{
+    width: 15%;
+}
